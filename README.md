@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Santiago Bejarano</h1><br>
 
 <p align="left">
-Soy un Desarrollador Backend Junior y Analista de Soporte con más de 2 años de experiencia en el sector financiero, especializado en construir soluciones confiables con PL/SQL, Oracle Forms, Oracle Reports y Python. Me apasiona resolver problemas complejos, optimizar procesos y desarrollar componentes que aporten valor real a la operación. Mantengo un enfoque de aprendizaje autónomo orientado a incorporar nuevos lenguajes, profundizar en bases de datos relacionales y comprender el negocio para traducirlo en soluciones de código eficaces, lo que me permite adaptarme con solidez a distintos entornos técnicos y seguir creciendo profesionalmente.
+Soy un Desarrollador Junior con más de 2 años de experiencia en el sector financiero, orientado a la administración de bases de datos relacionales. Cuento con experiencia en PL/SQL, T-SQL, Oracle Database, SQL Server y Python. Me apasiona resolver problemas complejos, optimizar procesos y desarrollar componentes que aporten valor real a la operación. Mantengo un enfoque de aprendizaje autónomo orientado a incorporar nuevos lenguajes, profundizar en bases de datos relacionales y comprender el negocio para traducirlo en soluciones de código eficaces, lo que me permite adaptarme con solidez a distintos entornos técnicos y seguir creciendo profesionalmente.
 </p>
 
 ---
@@ -9,9 +9,9 @@ Soy un Desarrollador Backend Junior y Analista de Soporte con más de 2 años de
 <h2 align="left">Lo que hago</h2>
 
 <p align="left">
-- Desarrollo y mantenimiento de funcionalidades con <b>PL/SQL</b> y componentes Oracle<br>
+- Desarrollo y mantenimiento de bases de datos relacionales (<b>SQL Server</b> y <b>Oracle</b>)<br>
 - Diagnóstico, análisis de causa raíz y resolución de errores de software<br>
-- Optimización de consultas, procesos y scripts para mejorar el rendimiento<br>
+- Diseño y optimización de consultas, procesos y scripts en <b>T-SQL</b> y <b>PL/SQL</b><br>
 - Gestión y solución de incidentes Nivel 2 aplicando <b>ITIL 4</b> y <b>Kanban</b><br>
 - Documentación técnica y buenas prácticas para soporte y auditorías<br>
 - Aprendizaje autónomo para incorporar nuevos lenguajes y comprender el negocio<br>
@@ -23,6 +23,7 @@ Soy un Desarrollador Backend Junior y Analista de Soporte con más de 2 años de
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="sql server logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
